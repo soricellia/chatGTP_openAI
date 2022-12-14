@@ -1,0 +1,19 @@
+{
+  "name": "chatgpt_openai",
+  "version": "1.0.0",
+  "description": "node js project to test googles new open ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soricellia/chatGTP_openAI.git"
+  },
+  "author": "soricellia@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soricellia/chatGTP_openAI/issues"
+  },
+  "homepage": "https://github.com/soricellia/chatGTP_openAI#readme"
+}
